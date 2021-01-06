@@ -1,0 +1,15 @@
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\MainWindow.g.cs
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\App.g.cs
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt_MarkupCompile.cache
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt_MarkupCompile.lref
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\bin\Debug\Symmetriskcrypt.exe.config
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\bin\Debug\Symmetriskcrypt.exe
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\bin\Debug\Symmetriskcrypt.pdb
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\MainWindow.baml
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.g.resources
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.Properties.Resources.resources
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.csproj.GenerateResource.cache
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.exe
+C:\Users\Mr.Gawzy\source\repos\Symmetriskcrypt\Symmetriskcrypt\obj\Debug\Symmetriskcrypt.pdb
